@@ -4,3 +4,6 @@ Principal component analysis and Fourier transformation code with Sentinel-1 dat
 
 
 ![FFT example with TERRASARX data in TerraNova Bay]([https://github.com/jcbw/PCA_Fourier_Leads_Sentinel1/blob/main/FFTIMG.png])
+
+
+![FFT example with TERRASARX data in TerraNova Bay]((https://github.com/jcbw/PCA_Fourier_Leads_Sentinel1/blob/main/FFTIMG.png)?raw=true)
